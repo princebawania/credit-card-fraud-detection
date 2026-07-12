@@ -42,8 +42,3 @@ NumPy
 scikit-learn
 
 matplotlib / seaborn
-
-
-If you want, I can also create a shorter, super-crisp GitHub README that fits on one screen, highlighting impact and results, perfect for recruiters and portfolio display.
-
-Do you want me to do that?
